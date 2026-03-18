@@ -1,0 +1,2 @@
+# FREEZE-EMOTE-
+GUI FREEZE Animation 
